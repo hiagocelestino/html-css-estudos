@@ -1,0 +1,1 @@
+Essa pasta contém projetos feitos durante estudos utilizando apenas html e css.
